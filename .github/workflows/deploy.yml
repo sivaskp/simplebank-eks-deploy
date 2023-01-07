@@ -1,4 +1,4 @@
-name: Deploy to production EKS NEW
+name: Deploy to production EKS
 
 on:
   push:

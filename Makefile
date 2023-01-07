@@ -1,4 +1,4 @@
-DB_URL=postgresql://root:DdWyvqjiYTnXRS3k3EFb@simple-bank.chlgvogk51zw.ap-south-1.rds.amazonaws.com:5432/simple_bank
+DB_URL=postgresql://root:MXMnfBzEph4UBAvZJDOQ@simple-bank.c7tl59lbuvah.ap-south-1.rds.amazonaws.com:5432/simple_bank
 
 network:
 	docker network create bank-network
